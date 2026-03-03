@@ -1,0 +1,56 @@
+<svg
+  width="200"
+  height="200"
+  viewBox="0 0 200 200"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="purpleGradient" x1="0" y1="0" x2="200" y2="200">
+      <stop offset="0%" stopColor="#9333ea" />
+      <stop offset="100%" stopColor="#6366f1" />
+    </linearGradient>
+  </defs>
+
+  {/* Outer Circle */}
+  <circle
+    cx="100"
+    cy="100"
+    r="75"
+    stroke="url(#purpleGradient)"
+    strokeWidth="4"
+    fill="white"
+  />
+
+  {/* Decorative Inner Ring */}
+  <circle
+    cx="100"
+    cy="100"
+    r="60"
+    stroke="#e9d5ff"
+    strokeWidth="2"
+    fill="none"
+  />
+
+  {/* Book */}
+  <path
+    d="M65 95 Q100 75 135 95 V130 Q100 110 65 130 Z"
+    fill="url(#purpleGradient)"
+  />
+
+  {/* Book Center Line */}
+  <line
+    x1="100"
+    y1="90"
+    x2="100"
+    y2="130"
+    stroke="white"
+    strokeWidth="2"
+  />
+
+  {/* Star */}
+  <polygon
+    points="100,60 104,72 118,72 107,82 111,95 100,87 89,95 93,82 82,72 96,72"
+    fill="#a855f7"
+  />
+</svg>
