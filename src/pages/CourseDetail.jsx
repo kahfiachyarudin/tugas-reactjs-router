@@ -30,7 +30,7 @@
           {course.materials.map((m, i) => (
             <li
               key={i}
-              className="bg-purple-800/40 px-4 py-2 rounded-xl hover:scale-105 hover:bg-purple-700/50 transition duration-300 shadow-sm shadow-purple-700/20 text-purple-100"
+              className="bg-purple-800 px-4 py-2 rounded-xl hover:scale-105 hover:bg-purple-700/50 transition duration-300 shadow-sm shadow-purple-700/20 text-purple-100"
             >
               {m}
             </li>
