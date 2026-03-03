@@ -62,9 +62,9 @@ export default function MainLayout() {
               Navigation
             </h3>
             <ul className="space-y-2 text-gray-600">
-              <li className="hover:text-indigo-600 transition cursor-pointer">Home</li>
-              <li className="hover:text-indigo-600 transition cursor-pointer">Courses</li>
-              <li className="hover:text-indigo-600 transition cursor-pointer">About</li>
+              <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/">Home</NavLink></li>
+              <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/courses">Courses</NavLink></li>
+              <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/about">About</NavLink></li>
             </ul>
           </div>
 
