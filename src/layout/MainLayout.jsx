@@ -24,6 +24,7 @@ export default function MainLayout() {
           <div className="flex gap-3 text-sm font-medium">
             <NavLink to="/" end className={active}>Home</NavLink>
             <NavLink to="/courses" className={active}>Courses</NavLink>
+            <NavLink to="/bookmarks" className={active}>Bookmarks</NavLink>
             <NavLink to="/about" className={active}>About</NavLink>
           </div>
 
@@ -64,6 +65,7 @@ export default function MainLayout() {
             <ul className="space-y-2 text-gray-600">
               <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/">Home</NavLink></li>
               <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/courses">Courses</NavLink></li>
+              <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/bookmarks">Bookmarks</NavLink></li>
               <li className="hover:text-indigo-600 transition cursor-pointer"><NavLink to="/about">About</NavLink></li>
             </ul>
           </div>
