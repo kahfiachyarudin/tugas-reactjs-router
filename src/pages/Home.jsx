@@ -16,7 +16,7 @@ export default function Home() {
 
       <h1 className="text-6xl md:text-7xl font-bold tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-400"
           style={{ fontFamily: "Cinzel, serif" }}>
-        EduCourse Hub
+        Astral Archive
       </h1>
 
       <div className="w-32 h-[2px] mx-auto mt-6 bg-gradient-to-r from-transparent via-yellow-400 to-transparent" />

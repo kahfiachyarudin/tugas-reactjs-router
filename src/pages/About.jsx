@@ -10,7 +10,7 @@ export default function About() {
       <div className="absolute bottom-0 right-1/3 w-96 h-96 bg-indigo-300/20 blur-3xl rounded-full -z-10" />
 
       <h1 className="text-5xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-indigo-600 to-pink-500">
-        Tentang EduCourse Hub ✨
+        Tentang Astral Archive ✨
       </h1>
 
       <p className="mt-6 text-gray-600 max-w-2xl mx-auto text-lg leading-relaxed">

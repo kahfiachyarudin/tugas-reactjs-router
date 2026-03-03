@@ -18,7 +18,7 @@ export default function MainLayout() {
                        text-indigo-700"
             style={{ fontFamily: "Cinzel, serif" }}
           >
-            EduCourse Hub
+            Astral Archive
           </h1>
 
           <div className="flex gap-3 text-sm font-medium">
@@ -49,7 +49,7 @@ export default function MainLayout() {
               className="text-xl font-bold text-indigo-700 mb-4"
               style={{ fontFamily: "Cinzel, serif" }}
             >
-              EduCourse Hub
+              Astral Archive
             </h2>
             <p className="text-gray-600 leading-relaxed">
               A realm of digital knowledge where ambition meets mastery.
@@ -82,7 +82,7 @@ export default function MainLayout() {
         </div>
 
         <div className="text-center py-6 text-gray-500 text-xs tracking-wide">
-          © 2026 EduCourse Hub. All rights reserved.
+          © 2026 Astral Archive. All rights reserved.
         </div>
 
       </footer>
