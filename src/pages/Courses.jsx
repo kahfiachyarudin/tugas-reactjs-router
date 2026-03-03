@@ -49,7 +49,7 @@ export default function Courses() {
       {visible < filteredCourses.length && (
         <div className="flex justify-center mt-12">
           <button
-            onClick={() => setVisible(prev => prev + 3)}
+            onClick={() => setVisible(prev => prev + 6)}
             className="px-6 py-3 rounded-full bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold shadow-lg hover:scale-110 transition duration-300"
           >
             ✦ Load More
