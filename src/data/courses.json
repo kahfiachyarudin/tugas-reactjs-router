@@ -73,5 +73,285 @@
     "description": "Bahasa pemrograman Go.",
     "fullDescription": "Belajar sintaks, goroutines, dan pemrograman concurrent.",
     "materials": ["Sintaks", "Goroutines", "Concurrent Programming", "Standard Library"]
+  },
+  {
+    "id": 11,
+    "title": "HTML Dasar",
+    "description": "Struktur dasar halaman web.",
+    "fullDescription": "Belajar tag, elemen, form, dan semantic HTML.",
+    "materials": ["Tag Dasar", "Form", "Semantic HTML", "Best Practice"]
+  },
+  {
+    "id": 12,
+    "title": "CSS Dasar",
+    "description": "Styling website dengan CSS.",
+    "fullDescription": "Belajar selector, box model, dan positioning.",
+    "materials": ["Selector", "Box Model", "Position", "Display"]
+  },
+  {
+    "id": 13,
+    "title": "Node.js",
+    "description": "Backend dengan Node.js.",
+    "fullDescription": "Belajar server, routing, dan REST API.",
+    "materials": ["HTTP Module", "Express", "REST API", "Middleware"]
+  },
+  {
+    "id": 14,
+    "title": "Express.js",
+    "description": "Framework backend untuk Node.js.",
+    "fullDescription": "Belajar routing, middleware, dan API development.",
+    "materials": ["Routing", "Middleware", "REST API", "Error Handling"]
+  },
+  {
+    "id": 15,
+    "title": "MongoDB",
+    "description": "Database NoSQL MongoDB.",
+    "fullDescription": "Belajar CRUD, schema, dan relasi data.",
+    "materials": ["CRUD", "Schema", "Aggregation", "Indexing"]
+  },
+  {
+    "id": 16,
+    "title": "MySQL",
+    "description": "Database relasional MySQL.",
+    "fullDescription": "Belajar query SQL, relasi tabel, dan optimasi.",
+    "materials": ["SELECT", "JOIN", "Index", "Optimization"]
+  },
+  {
+    "id": 17,
+    "title": "PostgreSQL",
+    "description": "Database relasional PostgreSQL.",
+    "fullDescription": "Belajar query lanjutan dan performa database.",
+    "materials": ["Query Lanjutan", "Indexing", "Function", "Performance"]
+  },
+  {
+    "id": 18,
+    "title": "Next.js",
+    "description": "Framework React untuk production.",
+    "fullDescription": "Belajar SSR, SSG, dan API routes.",
+    "materials": ["SSR", "SSG", "API Routes", "App Router"]
+  },
+  {
+    "id": 19,
+    "title": "Vue.js",
+    "description": "Framework JavaScript Vue.",
+    "fullDescription": "Belajar reactive data dan component.",
+    "materials": ["Reactive", "Component", "Props", "Vue Router"]
+  },
+  {
+    "id": 20,
+    "title": "Laravel",
+    "description": "Framework PHP Laravel.",
+    "fullDescription": "Belajar MVC, routing, dan Eloquent ORM.",
+    "materials": ["MVC", "Routing", "Eloquent", "Migration"]
+  },
+  {
+    "id": 21,
+    "title": "Flutter",
+    "description": "Framework mobile Flutter.",
+    "fullDescription": "Belajar widget, state management, dan deployment.",
+    "materials": ["Widget", "State", "Navigation", "Deployment"]
+  },
+  {
+    "id": 22,
+    "title": "Kotlin",
+    "description": "Bahasa pemrograman Kotlin.",
+    "fullDescription": "Belajar sintaks, OOP, dan Android development.",
+    "materials": ["Sintaks", "OOP", "Android", "Coroutine"]
+  },
+  {
+    "id": 23,
+    "title": "Swift",
+    "description": "Bahasa pemrograman Swift.",
+    "fullDescription": "Belajar iOS development dan SwiftUI.",
+    "materials": ["SwiftUI", "OOP", "iOS App", "Networking"]
+  },
+  {
+    "id": 24,
+    "title": "Data Structures",
+    "description": "Struktur data fundamental.",
+    "fullDescription": "Belajar array, linked list, stack, queue, tree.",
+    "materials": ["Array", "Linked List", "Stack", "Tree"]
+  },
+  {
+    "id": 25,
+    "title": "Algorithms",
+    "description": "Dasar algoritma pemrograman.",
+    "fullDescription": "Belajar sorting, searching, dan complexity.",
+    "materials": ["Sorting", "Searching", "Big O", "Recursion"]
+  },
+  {
+    "id": 26,
+    "title": "Git & GitHub",
+    "description": "Version control system.",
+    "fullDescription": "Belajar commit, branch, dan collaboration.",
+    "materials": ["Commit", "Branch", "Merge", "Pull Request"]
+  },
+  {
+    "id": 27,
+    "title": "Docker",
+    "description": "Containerization dengan Docker.",
+    "fullDescription": "Belajar image, container, dan deployment.",
+    "materials": ["Dockerfile", "Image", "Container", "Compose"]
+  },
+  {
+    "id": 28,
+    "title": "Cyber Security",
+    "description": "Dasar keamanan siber.",
+    "fullDescription": "Belajar enkripsi, network security, dan ethical hacking.",
+    "materials": ["Encryption", "Network", "OWASP", "PenTesting"]
+  },
+  {
+    "id": 29,
+    "title": "Machine Learning",
+    "description": "Dasar machine learning.",
+    "fullDescription": "Belajar supervised dan unsupervised learning.",
+    "materials": ["Regression", "Classification", "Clustering", "Model Evaluation"]
+  },
+  {
+    "id": 30,
+    "title": "Deep Learning",
+    "description": "Neural network dan AI.",
+    "fullDescription": "Belajar ANN, CNN, dan model training.",
+    "materials": ["ANN", "CNN", "Backpropagation", "TensorFlow"]
+  },
+  {
+    "id": 31,
+    "title": "UI/UX Design",
+    "description": "Dasar desain UI/UX.",
+    "fullDescription": "Belajar wireframe, prototype, dan user research.",
+    "materials": ["Wireframe", "Prototype", "User Flow", "Figma"]
+  },
+  {
+    "id": 32,
+    "title": "Figma",
+    "description": "Design dengan Figma.",
+    "fullDescription": "Belajar desain interface dan prototyping.",
+    "materials": ["Frame", "Component", "Prototype", "Design System"]
+  },
+  {
+    "id": 33,
+    "title": "GraphQL",
+    "description": "API dengan GraphQL.",
+    "fullDescription": "Belajar query, mutation, dan schema.",
+    "materials": ["Query", "Mutation", "Schema", "Resolver"]
+  },
+  {
+    "id": 34,
+    "title": "Firebase",
+    "description": "Backend as a Service.",
+    "fullDescription": "Belajar authentication, firestore, dan hosting.",
+    "materials": ["Auth", "Firestore", "Storage", "Hosting"]
+  },
+  {
+    "id": 35,
+    "title": "SASS",
+    "description": "CSS preprocessor.",
+    "fullDescription": "Belajar nesting, mixin, dan variable.",
+    "materials": ["Variable", "Mixin", "Nesting", "Partials"]
+  },
+  {
+    "id": 36,
+    "title": "Bootstrap",
+    "description": "Framework CSS Bootstrap.",
+    "fullDescription": "Belajar grid system dan component UI.",
+    "materials": ["Grid", "Navbar", "Card", "Modal"]
+  },
+  {
+    "id": 37,
+    "title": "Three.js",
+    "description": "3D di web dengan Three.js.",
+    "fullDescription": "Belajar scene, camera, dan animation.",
+    "materials": ["Scene", "Camera", "Light", "Animation"]
+  },
+  {
+    "id": 38,
+    "title": "Web Performance",
+    "description": "Optimasi website.",
+    "fullDescription": "Belajar lazy loading, caching, dan optimization.",
+    "materials": ["Lazy Load", "Caching", "Lighthouse", "Optimization"]
+  },
+  {
+    "id": 39,
+    "title": "Testing React",
+    "description": "Testing aplikasi React.",
+    "fullDescription": "Belajar Jest dan React Testing Library.",
+    "materials": ["Jest", "RTL", "Unit Test", "Mocking"]
+  },
+  {
+    "id": 40,
+    "title": "CI/CD",
+    "description": "Continuous Integration & Deployment.",
+    "fullDescription": "Belajar automation dan deployment pipeline.",
+    "materials": ["GitHub Actions", "Pipeline", "Build", "Deploy"]
+  },
+  {
+    "id": 41,
+    "title": "Linux Dasar",
+    "description": "Belajar sistem operasi Linux.",
+    "fullDescription": "Belajar command line dan file system.",
+    "materials": ["Terminal", "File System", "Permission", "Shell"]
+  },
+  {
+    "id": 42,
+    "title": "Cloud Computing",
+    "description": "Dasar cloud computing.",
+    "fullDescription": "Belajar AWS, deployment, dan scaling.",
+    "materials": ["AWS", "EC2", "S3", "Scaling"]
+  },
+  {
+    "id": 43,
+    "title": "Microservices",
+    "description": "Arsitektur microservices.",
+    "fullDescription": "Belajar service communication dan scaling.",
+    "materials": ["Service", "API Gateway", "Docker", "Scaling"]
+  },
+  {
+    "id": 44,
+    "title": "Redis",
+    "description": "In-memory database Redis.",
+    "fullDescription": "Belajar caching dan pub/sub.",
+    "materials": ["Caching", "Pub/Sub", "Session", "Performance"]
+  },
+  {
+    "id": 45,
+    "title": "WebSocket",
+    "description": "Real-time communication.",
+    "fullDescription": "Belajar socket connection dan event.",
+    "materials": ["Socket.io", "Event", "Realtime", "Chat App"]
+  },
+  {
+    "id": 46,
+    "title": "SEO",
+    "description": "Search Engine Optimization.",
+    "fullDescription": "Belajar optimasi website untuk mesin pencari.",
+    "materials": ["Meta Tag", "Keyword", "Performance", "Analytics"]
+  },
+  {
+    "id": 47,
+    "title": "Blockchain",
+    "description": "Dasar teknologi blockchain.",
+    "fullDescription": "Belajar smart contract dan cryptocurrency.",
+    "materials": ["Smart Contract", "Ethereum", "Wallet", "Token"]
+  },
+  {
+    "id": 48,
+    "title": "DevOps",
+    "description": "Praktik DevOps modern.",
+    "fullDescription": "Belajar automation, monitoring, dan deployment.",
+    "materials": ["Automation", "Monitoring", "CI/CD", "Infrastructure"]
+  },
+  {
+    "id": 49,
+    "title": "System Design",
+    "description": "Belajar desain sistem skala besar.",
+    "fullDescription": "Belajar scalability, database design, dan architecture.",
+    "materials": ["Scalability", "Load Balancer", "Database Design", "Architecture"]
+  },
+  {
+    "id": 50,
+    "title": "Competitive Programming",
+    "description": "Latihan problem solving.",
+    "fullDescription": "Belajar algoritma tingkat lanjut dan strategi lomba.",
+    "materials": ["Greedy", "DP", "Graph", "Math"]
   }
 ]
