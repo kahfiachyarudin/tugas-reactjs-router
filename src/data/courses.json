@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "React Basic",
+    "description": "Belajar dasar React dari nol.",
+    "fullDescription": "Belajar component, props, state, dan hooks.",
+    "materials": [
+      "Intro React",
+      "JSX",
+      "Props & State",
+      "useState"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tailwind CSS",
+    "description": "Styling modern dengan Tailwind.",
+    "fullDescription": "Belajar utility class, responsive design, dan layout.",
+    "materials": ["Utility Class", "Flexbox", "Grid", "Responsive"]
+  },
+  {
+    "id": 3,
+    "title": "React Router",
+    "description": "Routing di aplikasi React.",
+    "fullDescription": "Belajar navigasi, dynamic routes, dan nested routes.",
+    "materials": ["BrowserRouter", "Route", "Link", "useParams"]
+  },
+  {
+    "id": 4,
+    "title": "Redux",
+    "description": "State management dengan Redux.",
+    "fullDescription": "Belajar store, actions, reducers, dan middleware.",
+    "materials": ["Store", "Actions", "Reducers", "Thunk"]
+  },
+  {
+    "id": 5,
+    "title": "TypeScript",
+    "description": "JavaScript dengan tipe statis.",
+    "fullDescription": "Belajar tipe data, interface, dan generics.",
+    "materials": ["Tipe Data", "Interface", "Generics", "Type Inference"]
+  },
+  {
+    "id": 6,
+    "title": "C++",
+    "description": "Bahasa pemrograman C++.",
+    "fullDescription": "Belajar struktur data, algoritma, dan pemrograman berorientasi objek.",
+    "materials": ["Struktur Data", "Algoritma", "OOP", "Pemrograman Berorientasi Objek"]
+  },
+  {
+    "id": 7,
+    "title": "Python",
+    "description": "Bahasa pemrograman Python.",
+    "fullDescription": "Belajar sintaks, library, dan pemrograman berorientasi objek.",
+    "materials": ["Sintaks", "Library", "OOP", "Pemrograman Berorientasi Objek"]
+  },
+  {
+    "id": 8,
+    "title": "Java",
+    "description": "Bahasa pemrograman Java.",
+    "fullDescription": "Belajar sintaks, library, dan pemrograman berorientasi objek.",
+    "materials": ["Sintaks", "Library", "OOP", "Pemrograman Berorientasi Objek"]
+  },
+  {
+    "id": 9,
+    "title": "JavaScript",
+    "description": "Bahasa pemrograman JavaScript.",
+    "fullDescription": "Belajar sintaks, DOM manipulation, dan pemrograman asinkron.",
+    "materials": ["Sintaks", "DOM Manipulation", "Asynchronous Programming", "ES6+"]
+  },
+  {
+    "id": 10,
+    "title": "Go",
+    "description": "Bahasa pemrograman Go.",
+    "fullDescription": "Belajar sintaks, goroutines, dan pemrograman concurrent.",
+    "materials": ["Sintaks", "Goroutines", "Concurrent Programming", "Standard Library"]
+  }
+]
